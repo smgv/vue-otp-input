@@ -24,6 +24,8 @@ const otp = ref('')
     />
     <br />
     <p>OTP: {{ otp }}</p>
+    <br />
+    <p>V1.0.1</p>
   </div>
 </template>
 
